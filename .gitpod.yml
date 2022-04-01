@@ -1,1 +1,1 @@
-image: docker.io/gitpod/workspace-full@sha256:c9629911461de52d1a9e1b770780c30fa1a0b4fbaa96781d39390d19145775fb
+image: docker.io/gitpod/workspace-full:latest
