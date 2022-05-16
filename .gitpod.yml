@@ -1,1 +1,1 @@
-image: docker.io/gitpod/workspace-full:latest
+image: europe-docker.pkg.dev/prince-tf-experiments/dazzle/workspace-images:jsonkey1
