@@ -1,3 +1,3 @@
-FROM registry.gitlab.com/prince41/testproj/go:latest
+FROM prince.azurecr.io/workspace-images:go
 
 RUN touch /tmp/abc && echo "done"
