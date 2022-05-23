@@ -1,3 +1,3 @@
-FROM prince.azurecr.io/base-images:go
+FROM gitpod/workspace-go
 
 RUN touch /tmp/abc && echo "done"
