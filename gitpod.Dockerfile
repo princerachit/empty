@@ -1,3 +1,3 @@
-FROM gitpod/workspace-java-11:latest
+FROM gitpod/workspace-go:latest
 
 RUN touch /tmp/abc && echo "done"
