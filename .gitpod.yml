@@ -1,1 +1,1 @@
-image: europe-docker.pkg.dev/prince-tf-experiments/dazzle/workspace-images:go
+image: ubuntu:latest
