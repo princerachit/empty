@@ -1,1 +1,1 @@
-image: ubuntu:latest
+image: alpine:latest
